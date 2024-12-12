@@ -11,7 +11,7 @@ export default function App() {
       <Box width={"100%"}>
         <Logo/>
       </Box>
-      <Box width={"100%"} border={"1px solid red"}>
+      <Box width={"100%"}>
         <Header/>
       </Box>
 
@@ -19,7 +19,7 @@ export default function App() {
         <AppRouter/>
       </Box>
 
-      <Box width={"100%"} border={"4px solid black"}>
+      <Box width={"100%"}>
         <Footer/>
       </Box>
 

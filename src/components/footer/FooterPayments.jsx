@@ -4,7 +4,7 @@ import { finance } from './FooterImage'
 const FooterPayments = () => {
  
   return (
-    <Flex>
+    <Flex flexWrap={"wrap"}>
       {
        Object.entries(finance).map((bank,idx)=>(<Image src = {bank[1]} key={idx} width={"30px"} mr={"10px"}/>)
        )
