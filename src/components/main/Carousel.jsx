@@ -14,11 +14,12 @@ export const Carousel = () => {
     return ()=> clearInterval(timer)
   },[slideNo])  
   return (
-    <Box>                 
-        <Box position={"relative"}>
-            <Image w={"100%"} h={"440px"} src={images[slideNo].image}/>
+    <Box bg={"black"} textAlign={"center"}>                 
+        <Box w={"100%"} h={["440px","80vh"]} position={"relative"} bgImage={`url(${images[slideNo].image})`} bgSize={"cover"} opacity={"0.6"} >
+            {/* <Image w={"100%"} h={"440px"} src={images[slideNo].image}/> */}
+
         </Box>
-        <Flex flexDirection={"column"} alignItems={"center"} fontSize={"2.5rem"} fontWeight={"bolder"} color={"white"} position={"absolute"} bottom={"50%"} right={"50%"} translate={"50%"}>
+        <Flex flexDirection={"column"} gap={"30px"} alignItems={"center"} justifyContent={"center"} fontSize={["1.5rem","2.5rem"]} fontWeight={"bolder"} textWrap={"wrap"} color={"white"} position={"absolute"} bottom={["55%","50%","40%"]} right={"50%"} translate={"50%"}>
             <Box>{images[slideNo].offer}</Box>
             <Box>{images[slideNo].brand}</Box>
             <Box><Button bg={"transparent"} borderRadius={"20px"} borderColor={"white"}>SHOP NOW</Button></Box>

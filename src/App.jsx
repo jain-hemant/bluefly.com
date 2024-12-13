@@ -7,7 +7,7 @@ import Logo from './components/header/Logo'
 
 export default function App() {
   return (
-    <VStack width={"100%"} bg={"yellow"}>
+    <VStack width={"100%"} > 
       <Box width={"100%"}>
         <Logo/>
       </Box>
