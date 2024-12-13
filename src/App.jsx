@@ -18,7 +18,9 @@ export default function App() {
       <Box width={"100%"}>
         <AppRouter/>
       </Box>
-
+      <Box >
+        <hr style={{backgroundColor:" blue"}}/>
+      </Box>
       <Box width={"100%"}>
         <Footer/>
       </Box>

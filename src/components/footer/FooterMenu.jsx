@@ -58,26 +58,27 @@ const FooterMenu = () => {
         
     ]
   return (
-    <Grid w={"100%"} templateColumns={["repeat(1,1fr)","repeat(2,1fr)","repeat(4,1fr)"]}>
+    <Grid mt={"40px"} w={"100%"} templateColumns={["repeat(1,1fr)","repeat(1,1fr)","repeat(4,1fr)"]} textAlign={"center"}>
         <GridItem>
            <Heading>FOLLOW US</Heading>
-            <Flex>
+            <Flex justifyContent={"center"} gap={"20px"}>
                 <Image width={"40px"} src={social.facebook} />
                 <Image width={"40px"} src={social.instagram} />
             </Flex>
         </GridItem>
             
-        <GridItem>
+        <GridItem textAlign={"left"}>
+            <Heading>Help</Heading>
            {
             helpLink?.map((el,idx)=>{
-                return <Box key={idx}>
+                return <Box key={idx} >
                     <Link>{el.name}</Link>
                 </Box>
             })
            }
         </GridItem>
             
-        <GridItem >
+        <GridItem mx={"auto"}>
             <Image width={"80px"} src='https://www.bluefly.com/cdn/shop/files/1595967_1_1_90x@2x.png?v=1712087106'/>
         </GridItem>
 

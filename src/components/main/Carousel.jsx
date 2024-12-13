@@ -19,7 +19,7 @@ export const Carousel = () => {
             {/* <Image w={"100%"} h={"440px"} src={images[slideNo].image}/> */}
 
         </Box>
-        <Flex flexDirection={"column"} gap={"30px"} alignItems={"center"} justifyContent={"center"} fontSize={["1.5rem","2.5rem"]} fontWeight={"bolder"} textWrap={"wrap"} color={"white"} position={"absolute"} bottom={["55%","50%","40%"]} right={"50%"} translate={"50%"}>
+        <Flex flexDirection={"column"} gap={"30px"} alignItems={"center"} justifyContent={"center"} fontSize={["1.5rem","2.5rem"]} fontWeight={"bolder"} textWrap={"wrap"} color={"white"} position={"absolute"} bottom={["55%","40%","70%"]} right={"50%"} translate={"50%"}>
             <Box>{images[slideNo].offer}</Box>
             <Box>{images[slideNo].brand}</Box>
             <Box><Button bg={"transparent"} borderRadius={"20px"} borderColor={"white"}>SHOP NOW</Button></Box>
