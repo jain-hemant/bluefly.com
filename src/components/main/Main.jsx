@@ -7,7 +7,7 @@ import RecommendedProduct from './RecommendedProduct'
 
 
 const Main = () => {
-  const offerImage = "https://www.bluefly.com/cdn/shop/files/2024_Holiday_Luxury_Specials_Top_Banner_Small_Size.jpg?v=1733447107&width=1200"
+  const offerImage = "https://idoxb08.sufydely.com/bluefly/assets/images/image/banner/2banner-HOLIDAY_MEGA_SALE_BANNER_2000x800_84690522-955b-45d1-b6a2-e0b7f8d57c6f.jpg"
   return (
     <Box>
       <Box>
@@ -15,7 +15,7 @@ const Main = () => {
       </Box>
       <Flex flexDir={"column"} gap={"40px"} p={""}>
         <Carousel />
-        <Heading fontSize={{ base: "3xl"}} textAlign={"center"}>SHOP BY</Heading>
+        <Heading fontSize={{ base: "3xl" }} textAlign={"center"}>SHOP BY</Heading>
         <ShopBy />
         <NewArriaval />
         <RecommendedProduct />

@@ -13,11 +13,11 @@ const RecommendedProduct = () => {
   }
   return (
     <Flex flexDirection={"column"}>
-      <Flex >
+      <Flex flexDirection={["column", "column", "row"]} justifyContent={"center"} alignItems={"center"}>
         <Flex width={"90%"} justify={"center"}>
           <Heading fontSize={{ base: "3xl" }} textAlign={"center"}>RECOMMENDED PRODUCT</Heading>
         </Flex>
-        <Flex w={"10%"} justifyContent={"end"} gap={"20px"} my={"10px"}>
+        <Flex w={["100%", "10%"]} justifyContent={["center", "end"]} gap={"20px"} my={"30px"} mr={"20px"}>
           <Button onClick={handlePrevious} bg={"white"} color={"black"} border={"1px solid black"}>prev</Button>
           <Button onClick={handleNext} bg={"white"} color={"black"} border={"1px solid black"}>next</Button>
         </Flex>
