@@ -6,7 +6,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/1B-RL8559587oan-14_900x.jpg"
         ],
         brand: "Mulberry",
-        desciption: "Mulberry Mini Iris Handbag",
+        description: "Mulberry Mini Iris Handbag",
         price: 1240.00,
         off: 20,
         cost: 705.00
@@ -18,7 +18,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/2F-1411506506_RLLZ_white_2_900x.jpg"
         ],
         brand: "SOFIACASHMERE",
-        desciption: "SOFIACASHMERE TURTLENECK CASHMERE SWEATER",
+        description: "SOFIACASHMERE TURTLENECK CASHMERE SWEATER",
         price: 595.00,
         off: 20,
         cost: 227.99
@@ -30,7 +30,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/3B-1313125823_RLLZ_2_900x.jpg"
         ],
         brand: "FENDI",
-        desciption: "FENDI FF LOGO DOMINO LEATHER BOOT",
+        description: "FENDI FF LOGO DOMINO LEATHER BOOT",
         price: 1299.00,
         off: 20,
         cost: 1199.99
@@ -42,7 +42,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/4B-L41252900btr-14_900x.jpg"
         ],
         brand: "SALOMON",
-        desciption: "SALOMON XT-6 SNEAKERS",
+        description: "SALOMON XT-6 SNEAKERS",
         price: 240.00,
         off: 20,
         cost: 172.00
@@ -54,7 +54,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/5B-1411948491_RLLZ_2_900x.jpg"
         ],
         brand: "ENZA COSTA",
-        desciption: "ENZA COSTA EVERYWHERE PANT",
+        description: "ENZA COSTA EVERYWHERE PANT",
         price: 295.00,
         off: 20,
         cost: 155.99
@@ -66,7 +66,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/6B-1411309246_RLLZ_2_900x.jpg"
         ],
         brand: "SOFIACASHMERE",
-        desciption: "SOFIACASHMERE MODERN FAUX WRAP CASHMERE SWEATER",
+        description: "SOFIACASHMERE MODERN FAUX WRAP CASHMERE SWEATER",
         price: 295.00,
         off: 20,
         cost: 139.99
@@ -78,7 +78,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/7B-p8nvaP6cYeijlJj60kQSjADvsp14x7Eu-25_900x.jpg"
         ],
         brand: "VERSACE",
-        desciption: "WOMENS SATIN ANKLE STRAP HEELS",
+        description: "WOMENS SATIN ANKLE STRAP HEELS",
         price: 1475.00,
         off: 20,
         cost: 266.99
@@ -90,7 +90,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/8F-431467-KY980-8378__90556__2_900x.jpg"
         ],
         brand: "GUCCI",
-        desciption: "GUCCI WOMENS JORDAAN LOAFERS",
+        description: "GUCCI WOMENS JORDAAN LOAFERS",
         price: 920.00,
         off: 20,
         cost: 404.99
@@ -102,7 +102,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/9B-1313889538_RLLZ_2_900x.jpg"
         ],
         brand: "MANOLO BLAHNIK",
-        desciption: "MANOLO BLAHNIK HANGISI 90 SATIN PUMP",
+        description: "MANOLO BLAHNIK HANGISI 90 SATIN PUMP",
         price: 1195.00,
         off: 20,
         cost: 959.99
@@ -114,7 +114,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/10B-1313710067_RLLZ_2_900x.jpg"
         ],
         brand: "CHRISTIAN LOUBOUTIN",
-        desciption: "CHRISTIAN LOUBOUTIN HOTCHICK SLING 70 PATENT SLINGBACK PUMP",
+        description: "CHRISTIAN LOUBOUTIN HOTCHICK SLING 70 PATENT SLINGBACK PUMP",
         price: 895.00,
         off: 20,
         cost: 581.99
@@ -126,7 +126,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/11B-6560502-AAJ7-2564__90051__2_900x.jpg"
         ],
         brand: "BALENCIAGA",
-        desciption: "BALENCIAGA WOMENS CROC EMBOSSED HOURGLASS WALLET ON CHAIN",
+        description: "BALENCIAGA WOMENS CROC EMBOSSED HOURGLASS WALLET ON CHAIN",
         price: 1750.00,
         off: 20,
         cost: 991.99
@@ -138,7 +138,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/12B-F103310701__TTE__2_900x.jpg"
         ],
         brand: "FENDI",
-        desciption: "FENDI WOMENS FOREVER FENDI TWO TONE 19MM BRACELET FASHION WATCH",
+        description: "FENDI WOMENS FOREVER FENDI TWO TONE 19MM BRACELET FASHION WATCH",
         price: 2390.00,
         off: 20,
         cost: 956.99
@@ -150,7 +150,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/13B-1313034817_RLLZ_1_medium.jpg"
         ],
         brand: "VELENTINO",
-        desciption: "VELENTINO VLOGO SIGNATURE LEATHER LOAFER",
+        description: "VELENTINO VLOGO SIGNATURE LEATHER LOAFER",
         price: 1029.00,
         off: 20,
         cost: 839.99
@@ -162,7 +162,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/14B-01C952-750601-1D__60010__2_900x.jpg"
         ],
         brand: "FERRAGAMO",
-        desciption: "FERRAGAMO WOMENS VIVA METALLIC LOAFERS",
+        description: "FERRAGAMO WOMENS VIVA METALLIC LOAFERS",
         price: 895.00,
         off: 20,
         cost: 500.99
@@ -174,7 +174,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/15B-1313027602_RLLZ_2_900x.jpg"
         ],
         brand: "CHRISTIAN LOUBOTIN",
-        desciption: "CHRISTIAN LOUBOTIN SPORTY KATE 55 LEATHER SLINGBACK PUMP",
+        description: "CHRISTIAN LOUBOTIN SPORTY KATE 55 LEATHER SLINGBACK PUMP",
         price: 895.00,
         off: 20,
         cost: 500.99
@@ -186,7 +186,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/16B-rYrUL0UpMPVjsJ0GXbohQXo9oPUbCBP9-25_900x.jpg"
         ],
         brand: "MONCLER",
-        desciption: "ANTHON WOMENS DOWN QUILTED PUFFER JACKET",
+        description: "ANTHON WOMENS DOWN QUILTED PUFFER JACKET",
         price: 1935.00,
         off: 20,
         cost: 910.99
@@ -198,7 +198,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/17B-1313679063_RLLZ_2_900x.jpg"
         ],
         brand: "CHRISTION LOUBOUTIN",
-        desciption: "CHRISTION LOUBOUTIN CONDORA 85 LEATHER PUMP",
+        description: "CHRISTION LOUBOUTIN CONDORA 85 LEATHER PUMP",
         price: 895.00,
         off: 20,
         cost: 719.99
@@ -210,7 +210,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/18B-1313793044_RLLZ_2_900x.jpg"
         ],
         brand: "VELENTINO",
-        desciption: "VELENTINO ROCKSTUD LEATHER BOOT",
+        description: "VELENTINO ROCKSTUD LEATHER BOOT",
         price: 1625.00,
         off: 20,
         cost: 1133.99
@@ -222,7 +222,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/19B-8093207034_1_medium.jpg"
         ],
         brand: "BOTTEGGA VENETA",
-        desciption: "BOTTEGGA VENETA EMBOSSED LEATHER TOTE BAG",
+        description: "BOTTEGGA VENETA EMBOSSED LEATHER TOTE BAG",
         price: 1980.00,
         off: 20,
         cost: 875.00
@@ -234,7 +234,7 @@ export const arrivalProduct = [
             "https://idoxb08.sufydely.com/bluefly/assets/images/image/homepage/arrival/backside/20B-1111336850_RLLZ_2_900x.jpg"
         ],
         brand: "DOLCE & GABBANA SICILY SMALL PATENT SATCHEL",
-        desciption: "",
+        description: "",
         price: 1695.00,
         off: 20,
         cost: 822.99
