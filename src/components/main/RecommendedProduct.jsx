@@ -4,7 +4,7 @@ import { arrivalProduct } from './newArrivals'
 import Cards from '../common/Cards'
 
 const RecommendedProduct = () => {
-  const [recommended, setRecommended] = useState(0)
+  const [recommended, setRecommended] = useState(13)
   const handlePrevious = () => {
     setArrival((prevIndex) => prevIndex - 5 < 0 ? arrivalProduct.length - 5 : prevIndex - 5)
   }
